@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content= "width=device-width, user-scalable=no">
+	<meta name="referrer" content="no-referrer">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Rubik&family=Varela+Round&display=swap" rel="stylesheet">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <script src="https://kit.fontawesome.com/0a7198e186.js" crossorigin="anonymous"></script>
+	<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="shortcut icon" type="image/jpg" href="img/juancarloscruzcoba.png"/>
+    <link rel="stylesheet" href="css/styles.css">
+    <title>CV | Juan Carlos Cruz Coba</title>
+</head>
+<body>
+    <header>
+        <img src="img/juancarloscruzcoba.png">
+        <div>
+            <h1 style="margin: 0">Juan Carlos Cruz Coba</h1>
+                <span class="coder" style="position: relative">CODER</span> | <span class="marketer" id="marketer" style="position: relative; color: white;">MARKETER</span>
+        </div>
+    </header>
+    <section class="cv" data-aos="zoom-in">
+            <div class="age">
+                <p>2015</p>
+            </div>
+            <div class="linea"></div>
+            <div class="leyenda">
+                <p>Comencé en el Mundo de la Afiliación. Aprendí de Tracking, Landings, Conversión y Creación de Estrategias</p>
+                <span>Aprendí Herramientas como:</span>
+                <ul>
+                    <li><span>Bemob</span> <img src="img/bemob.png"></li>
+                    <li>Canva <img src="img/canva.png"></li>
+                    <li>Blogger <img src="img/blogger.jpg"></li>
+                    <li>ManyChat <img src="img/manychat.jpg"></li>
+                </ul>
+            </div>
+    </section>
+    <section class="cv" data-aos="zoom-in">
+            <div class="age">
+                <p>2017</p>
+            </div>
+            <div class="linea2"></div>
+            <div class="leyenda">
+            <p>Creé mi Primera Agencia de Marketing Digital de RRSS</p>
+                <span>Aprendí Herramientas como:</span>
+                <ul>
+                    <li><span>HubSpot</span> <img src="img/hubspot.png"></li>
+                    <li>HootSuite <img src="img/buo.png"></li>
+                    <li>Photoshop <img src="img/photoshop.png"></li>
+                    <li>Shopify <img src="img/shopify.png"></li>
+                    <li>ClickFunnels <img src="img/clickfunnel.png"></li>
+                </ul>
+            </div>
+    </section>
+    <section class="cv" data-aos="zoom-in">
+            <div class="age">
+                <p>2019</p>
+            </div>
+            <div class="linea2"></div>
+            <div class="leyenda">
+            <p>Creé mi Segunda Agencia de Marketing Digital de Desarrollo Web y Ads</p>
+                <span>Aprendí Herramientas como:</span>
+                <ul>
+                    <li><span>Elementor Pro</span> <img src="img/elementor-pro.jpg"></li>
+                    <li>Facebook Ads <img src="img/facebook-ads.png"></li>
+                    <li>Instagram Ads <img src="img/tiktok.png"></li>
+                    <li>Tik Tok Ads <img src="img/tiktok2.png"></li>
+                    <li>Google Ads <img src="img/googleads.png"></li>
+                    <li>Google Analytics <img src="img/google.png"></li>
+                    <li>Google Search Console <img src="img/gsc.png"></li>
+                    <li>Ahref <img src="img/ahref.png"></li>
+                </ul>
+            </div>
+    </section>
+    <section class="cv" data-aos="zoom-in">
+            <div class="age">
+                <p>2020</p>
+            </div>
+            <div class="linea2"></div>
+            <div class="leyenda">
+            <p>Creé una Marca de Ropa Hip Hop Line Facturando 1M: Sector Deportivo para Hombre</p>
+                <span>Aprendí Herramientas como:</span>
+                <ul>
+                    <li><span>Escalado de Facebook Ads</span> <img src="img/elementor-pro.jpg"></li>
+                    <li>Retargueting & LLA<img src="img/facebook-ads.png"></li>
+                    <li>Influencer Marketing<img src="img/facebook-ads.png"></li>
+                </ul>
+            </div>
+    </section>
+    <section class="cv" data-aos="zoom-in">
+            <div class="age">
+                <p>2021</p>
+            </div>
+            <div class="linea2"></div>
+            <div class="leyenda">
+            <p>Creación de Web App CLYB APP: SASS Automatización de Agencias Digitales</p>
+                <span>Aprendí Herramientas como:</span>
+                <ul>
+                    <li><span>Figma</span> <img src="img/figma.png"></li>
+                    <li>Apis Stripe<img src="img/stripe.png"></li>
+                    <li>PHP<img src="img/php.png"></li>
+                    <li>HTML3 & CSS3<img src="img/html.png"></li>
+                    <li>Javascript<img src="img/js.png"></li>
+                </ul>
+            </div>
+    </section>
+    <section class="cv" data-aos="zoom-in">
+            <div class="age">
+                <p>2022</p>
+            </div>
+            <div class="linea2"></div>
+            <div class="leyenda">
+            <p>Director de Marketing en <a href="https://lacachimba.es">La Cachimba</a> - De Enero a Mayo</p>
+                <span>Aprendí Herramientas como:</span>
+                <ul>
+                    <li><span>Get Response</span> <img src="img/getresponse.jpg"></li>
+                    <li>SMS Bump<img src="img/smsbump.png"></li>
+                    <li>Amazon FBA<img src="img/amazon.jpg"></li>
+                    <li>Aliexpress<img src="img/aliexpress.jpg"></li>
+                </ul>
+                <p>Director de Proyecto en <a href="https://movivoz.com">Movivoz</a> - De Septiembre a Diciembre</p>
+                <span>Aprendí Herramientas como:</span>
+                <ul>
+                    <li><span>Zoho CRM</span> <img src="img/zoho.png"></li>
+                    <li>IP One<img src="img/amazon.jpg"></li>
+                    <li>3CX<img src="img/3CX.jpg"></li>
+                    <li>Open IA - Post Automáticos<img src="img/openia.jpg"></li>
+                </ul>
+            </div>
+    </section>
+    <h2 style="width: 90%; margin: 10px auto; text-align: center;">SITIOS DESARROLLADOS EN WORDPRESS <img src="img/wordpress.png" style="width: 50px;"></h2>
+    <section class="webs">
+        <div class="web">
+            <img src="img/cynador.PNG">
+            <div class="web-text">
+                <h2>Web: Cynador</h2>
+                <p>Agencia de Marketing Digital en Punta Cana</p>
+            </div>
+            <a href="https://cynador.com/">Visitar Sitio</a>
+        </div>
+        <div class="web">
+            <img src="img/hello.PNG">
+            <div class="web-text">
+                <h2>Web: Hello Caribe Tours</h2>
+                <p>Web de Actividades, Excursiones y Fiestas en República Dominicana</p>
+            </div>
+            <a href="https://hellocaribetours.com/">Visitar Sitio</a>
+        </div>
+        <div class="web">
+            <img src="img/iriatech.PNG">
+            <div class="web-text">
+                <h2>Web: Iria Tech</h2>
+                <p>Expertos del AHORRO en Luz para tu Hogar o Negocio</p>
+                <a href="https://iriatech.com/">Visitar Sitio</a>
+            </div>
+        </div>
+        <div class="web">
+            <img src="img/landingiria.PNG">
+            <div class="web-text">
+                <h2>Web: Iria Tech</h2>
+                <p>Landing Page - Iria Tech</p>
+                <a href="https://calculadora.iriatech.com/">Visitar Sitio</a>
+            </div>
+        </div>
+    </section>
+    <section class="webs">
+        <div class="web">
+            <img src="img/eticket.PNG">
+            <div class="web-text">
+                <h2>Web: Etickets</h2>
+                <p>E-Ticket application for entering and leaving the Dominican Republic</p>
+            </div>
+            <a href="http://etickets.pruebas.cynador.com/">Visitar Sitio</a>
+        </div>
+        <div class="web">
+            <img src="img/medepilo.PNG">
+            <div class="web-text">
+                <h2>Web: Me Depilo</h2>
+                <p>Web de Depilación Láser y Tratamientos Faciales</p>
+            </div>
+            <a href="https://www.medepilo.com/">Visitar Sitio</a>
+        </div>
+        <div class="web">
+            <img src="img/iria2.PNG">
+            <div class="web-text">
+                <h2>Web: Iria Tech Landing</h2>
+                <p>Expertos del AHORRO en Luz para tu Hogar o Negocio</p>
+                <a href="https://promociones.iriatech.com/">Visitar Sitio</a>
+            </div>
+        </div>
+        <div class="web">
+            <img src="img/margot.PNG">
+            <div class="web-text">
+                <h2>Web: Clínica Margot</h2>
+                <p>Centro de Belleza Avanzada Exclusivo y Único en Madrid!</p>
+                <a href="https://clinicamargot.com/">Visitar Sitio</a>
+            </div>
+        </div>
+    </section>
+    <section class="webs">
+        <div class="web">
+            <img src="img/vacaciona.PNG">
+            <div class="web-text">
+                <h2>Web: Vacaciona</h2>
+                <p>Plataforma de Viajes a República Dominicana</p>
+            </div>
+            <a href="https://www.vacaciona.pruebas.cynador.com/">Visitar Sitio</a>
+        </div>
+        <div class="web">
+            <img src="img/ivisa.PNG">
+            <div class="web-text">
+                <h2>Web: iVisa</h2>
+                <p>Hacemos que viajar alrededor del mundo sea más fácil ¡Un servicio rápido y fácil para su tranquilidad!</p>
+            </div>
+            <a href="https://ivisa.pruebas.cynador.com/">Visitar Sitio</a>
+        </div>
+        <div class="web">
+            <img src="img/cynador2.PNG">
+            <div class="web-text">
+                <h2>Landing Page : Cynador</h2>
+                <p>Agencia de Marketing Digital</p>
+                <a href="https://ofertas.cynador.com/optin1663793917610">Visitar Sitio</a>
+            </div>
+        </div>
+        <div class="web">
+            <img src="img/iria3.PNG">
+            <div class="web-text">
+                <h2>Web: Iria Tech</h2>
+                <p>Controle el costo energético</p>
+                <a href="https://residencialyempresas.iriatech.com/">Visitar Sitio</a>
+            </div>
+        </div>
+    </section>
+    
+        <!-- <script type="module">
+		// Pass in the id of an element
+		let confetti = new Confetti('si');
+
+		// Edit given parameters
+		confetti.setCount(75);
+		confetti.setSize(1);
+		confetti.setPower(25);
+		confetti.setFade(false);
+		confetti.destroyTarget(true);
+
+	</script> -->
+    <!-- <script src="confetti.min.js"></script> -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+  AOS.init({
+  	duraction: 1000,
+  });
+
+//   const marketer = document.getElementById('marketer');
+//   function executeAfter5Seconds() {
+//         marketer.style.backgroundColor = "black";
+// }
+// setTimeout(executeAfter5Seconds, 4000);
+  
+</script>
+</body>
+</html>

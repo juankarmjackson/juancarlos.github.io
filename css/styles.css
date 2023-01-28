@@ -1,0 +1,136 @@
+body {
+    margin: 0;
+    font-family: "Varela Round";
+}
+
+header{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+header img{
+    width: 150px;
+}
+
+.coder{
+    animation: upmove 2s linear;
+}
+
+.marketer{
+    animation: 2s upmove2 2s forwards;
+}
+
+.cv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cv .age {
+    width: 20%;
+    text-align: right;
+    padding: 10px;
+    
+}
+
+.cv .age:hover {
+    background-color: black;
+    color: white;
+}
+.cv .linea {
+    animation: 6s lineacreciente 4s forwards;
+}
+
+.cv .linea2 {
+    animation: 6s lineacreciente 4s forwards;
+}
+
+.cv .leyenda{
+    width: 60%;
+    padding: 10px;
+}
+
+.cv .leyenda img{
+    width: 30px;
+    border-radius: 50%;
+}
+
+.cv ul li{
+    display: flex;
+    align-items: center;
+}
+
+.webs {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+}
+
+.webs .web{
+    width: 250px;
+    box-shadow: 0px 0px 10px 6px gainsboro;
+    border-radius: 30px;
+    margin: 10px;
+    height: 400px;
+}
+
+.webs .web h2{
+    font-size: 20px;
+}
+
+.webs .web img{
+    width: 250px;
+    border-radius: 30px 30px 0 0;
+}
+
+.webs .web .web-text{
+    padding: 20px;
+}
+
+.webs .web a{
+    padding: 10px;
+    background: orange;
+    color: white;
+    text-decoration: none;
+    border-radius: 30px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+@keyframes upmove {
+    from {
+        top: 20px;
+    }
+    to {
+        top: 0px;
+    }
+  }
+
+  @keyframes upmove2 {
+    from {
+        color:black;
+        top: 20px;
+    }
+    to {
+        background: black;
+        top: 0px;
+    }
+  }
+
+  @keyframes lineacreciente {
+    from {
+        width: 2px;
+        background-color: black;
+        height: 0px;
+    }
+    to {
+        width: 2px;
+        background-color: black;
+        height: 200px;
+    }
+  }
