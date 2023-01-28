@@ -107,6 +107,24 @@ header img{
     cursor: pointer;
 }
 
+.boton {
+    max-width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.boton a{
+    padding: 10px;
+    background: orange;
+    color: white;
+    text-decoration: none;
+    border-radius: 30px;
+    margin: 10px;
+    cursor: pointer;
+}
+
 @keyframes upmove {
     from {
         top: 20px;
