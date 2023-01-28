@@ -49,6 +49,10 @@ header img{
     animation: 6s lineacreciente 4s forwards;
 }
 
+.cv .linea3 {
+    animation: 6s lineacreciente2 4s forwards;
+}
+
 .cv .leyenda{
     width: 70%;
     padding: 10px;
@@ -59,10 +63,10 @@ header img{
     border-radius: 50%;
 }
 
-.cv ul li{
+/* .cv ul li{
     display: flex;
     align-items: center;
-}
+} */
 
 .webs {
     display: flex;
@@ -134,4 +138,17 @@ header img{
         background-color: black;
         height: 200px;
     }
+  }
+
+    @keyframes lineacreciente2 {
+        from {
+            width: 2px;
+            background-color: black;
+            height: 0px;
+        }
+        to {
+            width: 2px;
+            background-color: black;
+            height: 500px;
+        }
   }
